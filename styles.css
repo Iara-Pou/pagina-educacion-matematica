@@ -1,0 +1,24 @@
+body{
+    overflow-x: hidden;
+}
+
+.logo{
+    height: 6em;
+    margin-right: 2em;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+#elemento-busqueda img{
+height: 1.3em;
+}
+
+footer p{
+    margin-bottom: 0 !important;
+}
+
+footer i {
+    font-size: 2em;
+}
